@@ -1,13 +1,13 @@
-# Stepu-on-Board
+# Rolling Dice
 
-#### An Interesting Game with lots of Hidden Tasks.
+#### An Interesting Game with lots of Hidden Tasks
 
 ![Board Image](/images/3.png)
 *Figure*: *Preview of the Game*.
 
 ## Introduction
 
-*Stepu-on-Board* is a game just like snake and ladder, made in C++. This is a multi player game which also has some hidden task at some points that you will get to know when you will land on them like moving 10 points ahead or start from 1 and many more. There are some rules for the players also. This game can only be played using keyboard keys.
+*Rolling Dice* is a game just like snake and ladder, made in C++. This is a multi player game in which you have to reach the final score, also having some hidden task at some points that you will get to know when you will land on them like moving 10 points ahead or start from 1 and many more. There are some rules for the players also. This game can only be played using keyboard keys.
 
 ## Snapshots of the Game
 
@@ -44,6 +44,9 @@ Here is the glimpse of how the users can enjoy the game.
 *Fig. 10*: *Hidden task: Player gets a chance*.
 
 ![Board Image](/images/12.png)
+*Fig. 11*: *Hidden task: Miss 1 chance*.
+
+![Board Image](/images/13.png)
 *Fig. 11*: *Player wins*.
 
 ## How to use this repository
