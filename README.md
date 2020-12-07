@@ -57,7 +57,7 @@ Follow below steps to make a working model of the game.
 Firstly, copy this repository to your local directory by executing:
 
 ```
-git clone https://github.com/RupalJain97/Stepu-on-Board.git
+git clone https://github.com/RupalJain97/Rolling-Dice.git
 ```
 
 ### TurboC++ setup
